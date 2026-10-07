@@ -1,4 +1,3 @@
 <Solution>
-  <Project Path="../RunningRoute.Console/RunningRoute.App.csproj" />
   <Project Path="RunningRoute.csproj" />
 </Solution>
