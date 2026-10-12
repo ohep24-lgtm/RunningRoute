@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RunningRoute.Core/RunningRoute.Core.csproj" />
+  <Project Path="RunningRoute.Runner/RunningRoute.Runner.csproj" />
+</Solution>
